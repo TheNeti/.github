@@ -21,6 +21,6 @@ Dark Code Studio is small group of LUA developers working to create a free, open
 
 [Discord](https://discord.gg/UgcUtJut8M)
 
-Email - **darkcodestudio@outlook.com**
+Email - **contact@darkcodestudio.pl**
 
 </div>
