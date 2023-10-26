@@ -7,6 +7,7 @@ Dark Code Studio is small group of LUA developers working to create a free, open
 <div align="center">
         <a href="https://ko-fi.com/thelindat"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=sernikovv&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
         <a href="https://ko-fi.com/lukewastaken"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=TheNeti&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+         <a href="https://ko-fi.com/lukewastaken"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=realangez&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
 </div>
 
 ## Community
@@ -20,6 +21,6 @@ Dark Code Studio is small group of LUA developers working to create a free, open
 
 [Discord](https://discord.gg/UgcUtJut8M)
 
-Email - **darkcodestudio@outlook.com**
+Email - **contact@darkcodestudio.pl**
 
 </div>
